@@ -76,8 +76,8 @@
 .page1 {
     width: 100%;
     height: 100vh;
-    background: url(pics/unsplashh.jpg) no-repeat;
-    /* background: black; */
+    /* background: url(pics/unsplashh.jpg) no-repeat; */
+    background: black;
     background-size: cover;
     position: relative;
 }
@@ -647,3 +647,4 @@ svg text:hover {
     border-top: #fff 1px;
 
 }
+
